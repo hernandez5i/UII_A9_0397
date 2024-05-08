@@ -1,0 +1,39 @@
+[
+  {
+    "rating": "4.5",
+    "title":"Air Force 1",
+    "text":"Nike",
+    "img": "img/19.jpg",
+    "audio": "Voices.mp3"
+  },
+  {
+    "rating": "4.6",
+    "title":"Jordan Especial Edition",
+    "text":"Buenos",
+    "img": "img/17.jpg",
+    "audio": "June - Bobby Richards.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"Jordan 3",
+    "text":"Exclusivos",
+    "img": "img/13.jpg",
+    "audio": "Muriel - Bobby Richards.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"Jordan 1",
+    "text":"Coloridos",
+    "img": "img/16.jpg",
+    "audio": "Piano Trap.mp3"
+  },
+  {
+    "rating": "4.5",
+    "title":"Jordan Balvin",
+    "text":"Colaboración",
+    "img": "img/12.jpg",
+    "audio": "Voices.mp3"
+  }
+
+
+]
